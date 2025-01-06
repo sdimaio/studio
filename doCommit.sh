@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set -x
 git config --global user.name "sdimaio"
 git config --global user.email "simmaco.dimaio@gmail.com"
 git remote set-url git@github.com:sdimaio/studio.git
