@@ -4,14 +4,28 @@
 
 Ciao amici, benvenuti o bentornati!
 
-<ins>**scopo:**</ins> Oggi vi illustrerò l'unico, semplicissimo metodo di studio che mi ha consentito di raggiungere ottimi risultati nella mia carriera scolastica e accademica, 
-senza sprecare tempo ed energie, dedicandomi con successo a moltissime altre attività. 
-Per chi non mi conoscesse, mi chiamo Giulia, sono italiana e mi sono laureata alla magistrale in giurisprudenza con 110 e lode e menzione alla tesi. 
-Ho vissuto molto all'estero e studiato in università straniere, tra cui il King's College di Londra, l'Università McGill di Montreal in Canada, e poi ho fatto
-un master a [Sciences Po a Parigi](https://it.wikipedia.org/wiki/Istituto_di_studi_politici_di_Parigi) nell'ambito di un programma di studio per cui ho vinto una borsa di studio. Inoltre, ho vinto un'altra borsa di studio per scrivere la tesi all'Università di Copenhagen.
-Nel corso della mia vita e dei miei studi all'estero, ho imparato diverse lingue, prima di tutto studiando per conto mio, sempre con il metodo di studio che vi illustrerò oggi, e anche vivendo appunto all'estero. Attualmente vivo a Copenhagen, dove lavoro a tempo pieno in uno studio legale.
-In tutto ciò, mi piace molto fare sport, stare nella natura, andare in barca a vela, leggere (a cui dedico molto tempo), e ho persino un book club qui su YouTube. Pandemia permettendo, ho una vita sociale piuttosto ricca, questo canale YouTube su cui pubblico un video ogni giovedì, e un blog ogni domenica. Ho anche un account Instagram, nel caso voleste seguirmi.
-Faccio tutto questo vivendo una vita felice, serena e consapevole, e mi sento bene con me stessa e con il mondo che mi circonda. Perché vi dico tutte queste cose? Non per vantarmi, ma per presentarmi e perché, se ci sono riuscita e ci riesco io, ci potete riuscire benissimo anche voi. Come? Con il metodo di studio giusto.
+<ins>**scopo:**</ins> Oggi vi illustrerò l'unico, semplicissimo metodo di studio che mi ha consentito di raggiungere 
+ottimi risultati nella mia carriera scolastica e accademica, senza sprecare tempo ed energie, dedicandomi con successo 
+a moltissime altre attività. 
+Per chi non mi conoscesse, mi chiamo Giulia, sono italiana e mi sono laureata alla magistrale in giurisprudenza con 
+110 e lode e menzione alla tesi. 
+Ho vissuto molto all'estero e studiato in università straniere, tra cui 
+* il [King's College di Londra](https://it.wikipedia.org/wiki/King%27s_College_London), 
+* l'Università [McGill di Montreal in Canada](https://it.wikipedia.org/wiki/Universit%C3%A0_McGill), 
+* e poi ho fatto un master a [Sciences Po a Parigi](https://it.wikipedia.org/wiki/Istituto_di_studi_politici_di_Parigi) 
+
+nell'ambito di un programma di studio per cui ho vinto una borsa di studio. Inoltre, ho vinto un'altra borsa di studio 
+per scrivere la tesi all'Università di Copenhagen.
+Nel corso della mia vita e dei miei studi all'estero, ho imparato diverse lingue, prima di tutto studiando per conto 
+mio, sempre con il metodo di studio che vi illustrerò oggi, e anche vivendo appunto all'estero. 
+Attualmente vivo a Copenhagen, dove lavoro a tempo pieno in uno studio legale. In tutto ciò, mi piace molto fare sport, 
+stare nella natura, andare in barca a vela, leggere (a cui dedico molto tempo), e ho persino un book club qui su 
+YouTube. Pandemia permettendo, ho una vita sociale piuttosto ricca, questo canale YouTube su cui pubblico un video ogni 
+giovedì, e un blog ogni domenica. Ho anche un account Instagram, nel caso voleste seguirmi.
+Faccio tutto questo vivendo una vita felice, serena e consapevole, e mi sento bene con me stessa e con il mondo che mi 
+circonda. Perché vi dico tutte queste cose? <span style="color:red">Per presentarmi</span>, <span style="color:orange">non per vantarmi</span> e perché, se ci sono riuscita e ci riesco io, ci potete riuscire benissimo 
+anche voi. Come? Con il metodo di studio giusto.
+
 Tutti i miei risultati, infatti, derivano da un unico punto centrale: il mio metodo di studio. Questo metodo di studio mi ha permesso di raggiungere ottimi risultati nel mio percorso accademico, i quali mi hanno consentito di accedere a università prestigiose, di imparare lingue, di vincere borse di studio. E proprio perché il mio metodo di studio è sempre stato molto efficiente, sono riuscita a dedicare tempo ad altre attività, tra cui le attività extracurricolari (sempre necessarie ad arricchire il CV), attività di svago, progetti personali. E anche se ho finito l'università, continuo a utilizzare questo metodo in qualunque ambito io debba perseguire un progetto di studio. Ad esempio, ho passato l'esame teorico della patente nautica in danese qui a Copenhagen proprio grazie al mio metodo di studio, e lo utilizzo anche nell'ambito del lavoro, imparando cose nuove, rendendo molto felice il mio capo e avendo tempo libero per dedicarmi ad altri progetti.
 Il mio messaggio per voi è che io non sono speciale, non ho niente di speciale rispetto a voi. L'unica cosa che ho di speciale è il mio metodo di studio. Ma, se guardate questo video fino alla fine, lo avrete anche voi, e magari, se guardate anche qualche altro video sul canale al quale mi riferirò in questo video, avrete una migliore visione d'insieme e troverete anche qualche spunto in più di crescita personale.
 Quello che ho capito nel corso di molti anni di studio è che, se c'è una cosa che può trasformare veramente la nostra esperienza universitaria da un'esperienza dura, noiosa e angosciante ad un'esperienza, seppur dura, ma anche gioiosa, è il fatto di avere un buon metodo di studio. Un metodo di studio che ci consenta di avere successo nell'ambito accademico e anche poi nell'ambito lavorativo è un metodo di studio che ci piaccia, che ci faccia risparmiare tempo e che ci permetta di dedicarci a tutte le altre cose bellissime che ci sono nella nostra vita.
