@@ -1,6 +1,14 @@
+# Metodo di studio senza sprecare tempo per voti alti
+
+#### Presentazione
+
 Ciao amici, benvenuti o bentornati!
 
-Oggi vi illustrerò l'unico, semplicissimo metodo di studio che mi ha consentito di raggiungere ottimi risultati nella mia carriera scolastica e accademica, senza sprecare tempo ed energie, dedicandomi con successo a moltissime altre attività. Per chi non mi conoscesse, mi chiamo Giulia, sono italiana e mi sono laureata alla magistrale in giurisprudenza con 110 e lode e menzione alla tesi. Ho vissuto molto all'estero e studiato in università straniere, tra cui il King's College di Londra, l'Università McGill di Montreal in Canada, e poi ho fatto un master a Sciences Po a Parigi nell'ambito di un programma di studio per cui ho vinto una borsa di studio. Inoltre, ho vinto un'altra borsa di studio per scrivere la tesi all'Università di Copenhagen.
+<ins>**scopo:**</ins> Oggi vi illustrerò l'unico, semplicissimo metodo di studio che mi ha consentito di raggiungere ottimi risultati nella mia carriera scolastica e accademica, 
+senza sprecare tempo ed energie, dedicandomi con successo a moltissime altre attività. 
+Per chi non mi conoscesse, mi chiamo Giulia, sono italiana e mi sono laureata alla magistrale in giurisprudenza con 110 e lode e menzione alla tesi. 
+Ho vissuto molto all'estero e studiato in università straniere, tra cui il King's College di Londra, l'Università McGill di Montreal in Canada, e poi ho fatto
+un master a [Sciences Po a Parigi](https://it.wikipedia.org/wiki/Istituto_di_studi_politici_di_Parigi) nell'ambito di un programma di studio per cui ho vinto una borsa di studio. Inoltre, ho vinto un'altra borsa di studio per scrivere la tesi all'Università di Copenhagen.
 Nel corso della mia vita e dei miei studi all'estero, ho imparato diverse lingue, prima di tutto studiando per conto mio, sempre con il metodo di studio che vi illustrerò oggi, e anche vivendo appunto all'estero. Attualmente vivo a Copenhagen, dove lavoro a tempo pieno in uno studio legale.
 In tutto ciò, mi piace molto fare sport, stare nella natura, andare in barca a vela, leggere (a cui dedico molto tempo), e ho persino un book club qui su YouTube. Pandemia permettendo, ho una vita sociale piuttosto ricca, questo canale YouTube su cui pubblico un video ogni giovedì, e un blog ogni domenica. Ho anche un account Instagram, nel caso voleste seguirmi.
 Faccio tutto questo vivendo una vita felice, serena e consapevole, e mi sento bene con me stessa e con il mondo che mi circonda. Perché vi dico tutte queste cose? Non per vantarmi, ma per presentarmi e perché, se ci sono riuscita e ci riesco io, ci potete riuscire benissimo anche voi. Come? Con il metodo di studio giusto.
