@@ -1,6 +1,6 @@
 # Metodo di studio senza sprecare tempo per voti alti
 
-#### Presentazione
+## Presentazione
 
 Ciao amici, benvenuti o bentornati!
 
@@ -23,24 +23,89 @@ stare nella natura, andare in barca a vela, leggere (a cui dedico molto tempo), 
 YouTube. Pandemia permettendo, ho una vita sociale piuttosto ricca, questo canale YouTube su cui pubblico un video ogni 
 giovedì, e un blog ogni domenica. Ho anche un account Instagram, nel caso voleste seguirmi.
 Faccio tutto questo vivendo una vita felice, serena e consapevole, e mi sento bene con me stessa e con il mondo che mi 
-circonda. Perché vi dico tutte queste cose? <span style="color:red">Per presentarmi</span>, <span style="color:orange">non per vantarmi</span> e perché, se ci sono riuscita e ci riesco io, ci potete riuscire benissimo 
-anche voi. Come? Con il metodo di studio giusto.
+circonda. Perché vi dico tutte queste cose? <span style="color:red">Per presentarmi</span>, <span style="color:orange">non per vantarmi</span> e perché, se ci sono riuscita e ci riesco io, ci 
+potete riuscire benissimo anche voi. Come? Con il metodo di studio giusto.
 
-Tutti i miei risultati, infatti, derivano da un unico punto centrale: il mio metodo di studio. Questo metodo di studio mi ha permesso di raggiungere ottimi risultati nel mio percorso accademico, i quali mi hanno consentito di accedere a università prestigiose, di imparare lingue, di vincere borse di studio. E proprio perché il mio metodo di studio è sempre stato molto efficiente, sono riuscita a dedicare tempo ad altre attività, tra cui le attività extracurricolari (sempre necessarie ad arricchire il CV), attività di svago, progetti personali. E anche se ho finito l'università, continuo a utilizzare questo metodo in qualunque ambito io debba perseguire un progetto di studio. Ad esempio, ho passato l'esame teorico della patente nautica in danese qui a Copenhagen proprio grazie al mio metodo di studio, e lo utilizzo anche nell'ambito del lavoro, imparando cose nuove, rendendo molto felice il mio capo e avendo tempo libero per dedicarmi ad altri progetti.
-Il mio messaggio per voi è che io non sono speciale, non ho niente di speciale rispetto a voi. L'unica cosa che ho di speciale è il mio metodo di studio. Ma, se guardate questo video fino alla fine, lo avrete anche voi, e magari, se guardate anche qualche altro video sul canale al quale mi riferirò in questo video, avrete una migliore visione d'insieme e troverete anche qualche spunto in più di crescita personale.
-Quello che ho capito nel corso di molti anni di studio è che, se c'è una cosa che può trasformare veramente la nostra esperienza universitaria da un'esperienza dura, noiosa e angosciante ad un'esperienza, seppur dura, ma anche gioiosa, è il fatto di avere un buon metodo di studio. Un metodo di studio che ci consenta di avere successo nell'ambito accademico e anche poi nell'ambito lavorativo è un metodo di studio che ci piaccia, che ci faccia risparmiare tempo e che ci permetta di dedicarci a tutte le altre cose bellissime che ci sono nella nostra vita.
-Purtroppo, però, sembra che pochissimi insegnanti si prendano il tempo per insegnare o illustrare ai loro studenti qual è un buon metodo di studio. Proprio a causa di questa carenza, nel corso dei miei anni di studio, mi sono sempre interessata a letture, ricerche, articoli nell'ambito della produttività e della massimizzazione dello studio e del metodo di studio. Ed è proprio per questo che ho aperto questo canale, appunto, per condividere i risultati delle mie ricerche con voi e, soprattutto, per condividere la mia esperienza personale.
-Ma eccoci qui, al cuore del video. Per prima cosa, voglio dirvi cosa non si deve assolutamente fare quando si tratta di studiare: non bisogna memorizzare. La memorizzazione va bene quando si tratta di imparare a memoria liste di vocaboli, liste di paradigmi, date e relativi avvenimenti storici. In questi casi, non si può prescindere dalla memorizzazione, e farò sicuramente altri video in cui vi parlerò delle migliori tecniche di memorizzazione. Ma memorizzare non significa studiare in generale, e la memorizzazione non può essere un metodo di studio. Perché memorizzare significa affidarsi esclusivamente alla propria memoria, mettere tantissime informazioni dentro il nostro cervello senza poi riuscire a trovarle. Per forza di cose, inevitabilmente ci dimentichiamo quello che abbiamo memorizzato, e quindi il nostro studio diventa inutile.
-Lo so che tutti, almeno una volta, ci siamo basati esclusivamente sulla memorizzazione. L'ho fatto anch'io e ho passato bene gli esami. Il problema non è il risultato, perché spesso memorizzando poi si arriva comunque a prendere il massimo dei voti. Però la memorizzazione non è forte, non è un metodo di studio forte, non è un metodo di studio. E quindi, se ci va bene, ci dimentichiamo tutto subito dopo l'esame (quante volte ci è capitato?). Se invece ci va male, e se magari la mole di lavoro è un pochino più grande per l'esame che dobbiamo sostenere, ci dimentichiamo la maggior parte delle informazioni prima dell'esame e quindi non riusciamo neppure ad ottenere un buon risultato all'esame. Quindi, evitiamo la memorizzazione.
-Lo studio, quello vero, l'apprendimento reale, si basa su due elementi fondamentali: comprendere e ricordare. Soltanto se queste due componenti sono integrate nel nostro studio possiamo dire di aver veramente studiato ed imparato. Ed è solo ed esclusivamente sulla base di questi elementi che si può avere un buon metodo di studio. Il mio metodo di studio si compone soltanto di cinque passaggi. I primi due passaggi sono orientati al comprendere, e gli ultimi tre passaggi sono orientati a ricordare.
+Tutti i miei risultati, infatti, derivano da un unico punto centrale: il mio metodo di studio. Questo metodo di studio 
+mi ha permesso di raggiungere ottimi risultati nel mio percorso accademico, i quali mi hanno consentito di accedere a 
+università prestigiose, di imparare lingue, di vincere borse di studio. E proprio perché il mio metodo di studio è 
+sempre stato molto efficiente, sono riuscita a dedicare tempo ad altre attività, tra cui le attività extracurricolari 
+(sempre necessarie ad arricchire il CV), attività di svago, progetti personali. E anche se ho finito l'università, 
+continuo a utilizzare questo metodo in qualunque ambito io debba perseguire un progetto di studio. Ad esempio, ho 
+passato l'esame teorico della patente nautica in danese qui a Copenhagen proprio grazie al mio metodo di studio, e 
+lo utilizzo anche nell'ambito del lavoro, imparando cose nuove, rendendo molto felice il mio capo e avendo tempo libero 
+per dedicarmi ad altri progetti.
+
+##### Pre-requisito
+Il mio messaggio per voi è che io non sono speciale, non ho niente di speciale rispetto a voi. L'unica cosa che ho 
+di speciale è il mio metodo di studio. Ma, se guardate questo video fino alla fine, lo avrete anche voi, e magari, se 
+guardate anche qualche altro video sul canale al quale mi riferirò in questo video, avrete una migliore visione 
+d'insieme e troverete anche qualche spunto in più di crescita personale.
+Quello che ho capito nel corso di molti anni di studio è che, se c'è una cosa che può trasformare veramente la nostra 
+esperienza universitaria da un'esperienza dura, noiosa e angosciante ad un'esperienza, seppur dura, ma anche gioiosa, 
+è il fatto di avere un buon metodo di studio. Un metodo di studio che ci consenta di avere successo nell'ambito 
+accademico e anche poi nell'ambito lavorativo è un metodo di studio che ci piaccia, che ci faccia risparmiare tempo e 
+che ci permetta di dedicarci a tutte le altre cose bellissime che ci sono nella nostra vita.
+Purtroppo, però, sembra che pochissimi insegnanti si prendano il tempo per insegnare o illustrare ai loro studenti qual 
+è un buon metodo di studio. Proprio a causa di questa carenza, nel corso dei miei anni di studio, mi sono sempre 
+interessata a letture, ricerche, articoli nell'ambito della produttività e della massimizzazione dello studio e del 
+metodo di studio. Ed è proprio per questo che ho aperto questo canale, appunto, per condividere i risultati delle mie 
+ricerche con voi e, soprattutto, per condividere la mia esperienza personale.
+
+## Metodo di studio: comprendere e ricordare.
+##### 0. Evitare la memorizzazione!
+Ma eccoci qui, al cuore del video. Per prima cosa, voglio dirvi cosa non si deve assolutamente fare quando si tratta 
+di studiare: non bisogna memorizzare. La memorizzazione va bene quando si tratta di imparare a memoria liste di 
+vocaboli, liste di paradigmi, date e relativi avvenimenti storici. In questi casi, non si può prescindere dalla 
+memorizzazione, e farò sicuramente altri video in cui vi parlerò delle migliori tecniche di memorizzazione. 
+Ma memorizzare non significa studiare in generale, e la memorizzazione non può essere un metodo di studio. Perché 
+memorizzare significa affidarsi esclusivamente alla propria memoria, mettere tantissime informazioni dentro il nostro 
+cervello senza poi riuscire a **trovarle**. 
+Per forza di cose, inevitabilmente ci dimentichiamo quello che abbiamo memorizzato, e quindi il nostro studio diventa 
+inutile.
+Lo so che tutti, almeno una volta, ci siamo basati esclusivamente sulla memorizzazione. L'ho fatto anch'io e ho 
+passato bene gli esami. **<ins>Il problema non è il **risultato**</ins>**, perché spesso memorizzando poi si arriva 
+comunque a prendere il massimo dei voti. Però **<ins><span style="color:blue">la memorizzazione</span></ins>** non è forte, non è un metodo di studio forte, 
+**<ins><span style="color:blue">non è un metodo di studio</span></ins>**.
+E quindi, se ci va bene, ci dimentichiamo tutto subito dopo l'esame (quante volte ci è capitato?). Se invece ci va 
+male, e se magari la mole di lavoro è un pochino più grande per l'esame che dobbiamo sostenere, ci dimentichiamo la 
+maggior parte delle informazioni prima dell'esame e quindi non riusciamo neppure ad ottenere un buon risultato 
+all'esame. Quindi, evitiamo la memorizzazione.
+
+### I cinque passaggi.
+Lo studio, quello vero, l'**apprendimento** reale, si basa su **due elementi** fondamentali: 
+* **<ins><span style="color:blue">comprendere</span></ins>** 
+* e **<ins><span style="color:blue">ricordare</span></ins>**. 
+Soltanto se queste due componenti sono *integrate* nel nostro studio possiamo dire di aver veramente *studiato* ed 
+*imparato*. Ed è solo ed esclusivamente sulla base di questi elementi che si può avere un buon metodo di studio. 
+Il mio <ins>metodo</ins> di studio <ins>si compone soltanto di **cinque passaggi**</ins>. 
+I primi due passaggi sono orientati al comprendere, e gli ultimi tre passaggi sono orientati a ricordare.
+
+#### Comprendere...
+##### 1. La struttura della materia
 Il primo passaggio riguarda la struttura della materia.
-Struttura che noi, prima di iniziare a studiare, ancora prima di iniziare a leggere, dobbiamo comprendere. Dobbiamo, cioè, analizzare e capire quali sono i confini della materia che ci accingiamo a studiare: di che cosa si tratta? Qual è il suo scopo? Qual è il suo campo di analisi? E, una volta fatto ciò, dobbiamo passare a capire qual è la suddivisione interna della materia, quali sono i suoi blocchi di contenuti principali, di quali parti si compone. L'indice del manuale è molto utile a questo scopo, perché in tutti i manuali c'è appunto un indice in cui si vede la suddivisione interna della trattazione. Non tralasciate mai questo primo passaggio, perché compierlo vi farà risparmiare tantissimo tempo dopo. L'obiettivo di questo passaggio è quindi quello di acquisire una visione d'insieme della materia, comprenderne lo scheletro, la struttura all'interno della quale andremo poi a collocare e collegare tra di loro tutte le nozioni che impareremo nel corso del nostro studio. Questo è veramente il requisito fondamentale, costituisce le fondamenta dell'edificio del nostro studio.
+Struttura che noi, prima di iniziare a studiare, ancora prima di iniziare a leggere, dobbiamo comprendere. 
+Dobbiamo, cioè, analizzare e capire quali sono i confini della materia che ci accingiamo a studiare: 
+* di che cosa si tratta? 
+* Qual è il suo scopo? 
+* Qual è il suo campo di analisi? 
+E, una volta fatto ciò, dobbiamo passare a capire qual è la suddivisione interna della materia, quali sono i suoi 
+<ins>blocchi di contenuti</ins> principali, di quali parti si compone. L'indice del manuale è molto utile a questo 
+scopo, perché in tutti i manuali c'è appunto un indice in cui si vede la suddivisione interna della trattazione. Non 
+tralasciate mai questo primo passaggio, perché compierlo vi farà risparmiare tantissimo tempo dopo. L'**obiettivo** di 
+questo passaggio è quindi quello di **acquisire** una <ins>visione d'insieme della materia</ins>, **comprenderne** lo 
+**scheletro**, la struttura all'interno della quale andremo poi a **collocare** e **collegare** tra di loro tutte le 
+nozioni che impareremo nel corso del nostro studio. Questo è veramente il requisito fondamentale, costituisce le 
+fondamenta dell'edificio del nostro studio.
+
 Io, per questo passaggio, utilizzo l'app Notion, che permette di prendere appunti, organizzare gli appunti, e ha un'utilissima funzione detta "toggle", che è una freccina che permette di mostrare e nascondere porzioni di testo. Se anche voi volete provare a utilizzare Notion, vi lascio il link interamente dedicato a come utilizzarlo meglio, come lo utilizzo io, così che possiate provare e vedere come vi trovate.
 Il secondo passaggio del metodo di studio consiste nella lettura attiva.
 Dopo quindi aver compreso come è strutturata la materia, iniziamo effettivamente a studiarla, a leggerla. Se possibile, io vi consiglio di leggere prima delle lezioni, cercando di individuare gli argomenti che il professore andrà a spiegare, perché se si legge prima si riesce a trarre molto di più dalla lezione, si riesce a comprendere molto meglio la materia e, magari, se necessario, si possono anche porre domande se c'è qualcosa che non è chiaro. Per sapere come organizzarvi con le letture e la preparazione delle lezioni, vi lascio il link a un video sull'organizzazione dello studio durante il semestre.
 In ogni caso, in qualunque tempo facciamo la nostra lettura, è importante che ci chiediamo sempre e costantemente il perché di quello che leggiamo. Se ci limitiamo ad accettare e cercare di assorbire le parole che ci sono scritte sul manuale, cadiamo nella trappola della memorizzazione. Noi, invece, che vogliamo andare oltre la memorizzazione e avere un ottimo metodo di studio, vogliamo comprendere a fondo quello che c'è scritto. Quindi, ci dobbiamo chiedere il perché di ogni singolo concetto.
 Se riuscite a rendere la vostra lettura effettivamente attiva ed evitare di cercare semplicemente di assorbire informazioni (cosa che non avverrà con una sola lettura, ma verrà con molte, molte letture), se invece la vostra lettura è attiva, potete di fatto limitarvi ad una sola lettura. Con i passaggi successivi, riuscirete ad acquisire una comprensione dettagliata e profonda della materia. Nella fase di lettura, può essere utile sottolineare espressioni importanti e parole chiave alle quali poi si ancorerà tutto il nostro ragionamento. Se volete scoprire quali sono i miei migliori consigli per sottolineare al meglio, vi lascio anche questa volta il link al video che ho fatto poche settimane fa.
 Il passaggio della lettura attiva ci impone di fermarci alla fine di ogni paragrafo, alla fine di ogni sezione, e chiederci se abbiamo effettivamente capito quello che abbiamo letto. E, in aggiunta, chiederci se riusciremo a spiegarlo a qualcun altro. Perché, se non riusciamo a spiegarlo a qualcun altro, significa che in realtà non l'abbiamo capito e non riusciremo neppure a spiegarlo al professore. Se la risposta è sì, quindi abbiamo capito tutto e riusciamo a spiegarlo, possiamo procedere con il paragrafo successivo. Se la risposta è no, dobbiamo fare qualcosa riguardo alle nozioni e concetti che non abbiamo capito. Quello che dobbiamo fare è tornare indietro e leggere il paragrafo, magari leggere altri paragrafi ai quali le parole che stiamo leggendo si riferiscono, possiamo chiedere al professore, chiedere a compagni di studio, oppure cercare su Internet. L'importante è che, qualunque sia il nostro metodo, risolviamo i dubbi e non cadiamo nella trappola della memorizzazione.
+
+### ... e ricordare.
 I primi due passaggi del metodo di studio, quindi l'analisi della struttura e la lettura attiva, ci permettono di comprendere a fondo la materia che stiamo studiando. Ma ora, una volta compreso quello che dobbiamo studiare, si tratta di ricordarlo in modo da arrivare all'esame preparati. Il segreto per ricordare e quindi imparare tutti i concetti che abbiamo compreso sta tutto in quello che in inglese si chiama "active recall", cioè, in italiano, richiamo attivo. Ho fatto un intero video sull'active recall. Vi lascio il link: andatelo a vedere se, alla fine di questo video, volete avere qualche informazione in più.
 In breve, l'active recall è un principio secondo il quale, al fine di imparare, è necessario stimolare in maniera attiva la nostra mente. L'active recall si pone in contrasto con lo studio passivo, cioè la lettura e rilettura sempre delle stesse cose, sperando che la nostra mente le assorba. Questo non è un metodo di studio efficace. La scienza dell'active recall sostiene che in realtà noi non impariamo quando proviamo a mettere informazioni nel nostro cervello, ma quando tentiamo di estrarle. Quindi, in realtà, l'apprendimento avviene quando cerchiamo di tirare fuori le informazioni dal nostro cervello, cerchiamo di ripetere, cerchiamo di testarci, dimostrare quello che abbiamo compreso. Ed è proprio in questa operazione di recupero delle informazioni dal cervello che si formano, all'interno di esso, quei collegamenti tra concetti e nozioni che poi vanno a formare la nostra conoscenza della materia. Più ci alleniamo a recuperare questi concetti, più forti diventano questi collegamenti, più profonda e solida diventa la nostra conoscenza.
 In questo senso, non basta comprendere un concetto con i passaggi numero 1 e 2 e metterlo nel nostro cervello, ma occorre anche estrarlo, e non solo una volta, ma più volte. E adesso vedremo come. L'importante è che vi ricordiate di improntare tutto il vostro studio all'active recall, quindi non leggere passivamente, ma cercare di interagire con i contenuti e di essere voi stessi a tirare fuori le conoscenze dal nostro cervello, ovviamente dopo aver letto, ma sempre in maniera attiva.
@@ -49,6 +114,7 @@ Fare gli schemi non significa copiare dal libro, riprodurre tutto quello che c'�
 Se decidete di fare gli schemi perché vi è utile riorganizzare le informazioni secondo un ordine vostro, l'importante è che li facciate senza guardare sul libro, ma facendo active recall. Ciò significa che, una volta effettuati i passaggi della struttura e della lettura attiva, mettete il libro da parte e fate i vostri schemi a mano oppure sul computer in base a quello che vi ricordate, senza guardare sul libro. In questo modo fate già un primo active recall, perché vi rendete conto se avete effettivamente compreso quello che c'è sul libro e se siete in grado già di ricordarlo. Questo passaggio rafforza i concetti nella nostra memoria.
 Soltanto dopo aver tentato di riprodurre i concetti del libro nei vostri schemi, potete andare a riguardare il libro e vedere quali sono le differenze. A quel punto, potete correggere i vostri schemi. Se fate gli schemi, vi consiglio di farli alla fine di ogni paragrafo, in modo da avere fresche le informazioni nella vostra mente e provare a fare immediatamente active recall. In questo modo, con una sola lettura, riuscirete a comprendere e compiere un primo passo verso il ricordare.
 Se fate gli schemi, ricordatevi sempre di integrarli con gli appunti che avete preso a lezione e con eventuali materiali aggiuntivi distribuiti dal professore. Appunti e materiali aggiuntivi possono essere molto importanti, tanto quanto il libro, perché magari, per il professore, determinati argomenti sono fondamentali, ma non sono spiegati sul libro. Quindi, informatevi sempre bene su quali sono le priorità del vostro professore e cercate, il più possibile, di seguire le lezioni, almeno quelle che vi danno qualcosa e vi aiutano a comprendere meglio la materia.
+
 Il quarto passaggio è quello della prima ripetizione.
 Alla fine di ogni sessione di studio, dobbiamo ripetere ad alta voce tutto quello che abbiamo studiato in quella sessione. Qui si applica l'active recall nella sua massima forma. Perché, finito di studiare, chiudiamo il libro e ripetiamo ad alta voce cercando di spiegare tutto quello che abbiamo studiato. Magari non ci ricorderemo tutto, è molto probabile, ma dobbiamo resistere alla tentazione di andare a leggere immediatamente sul libro. Prima, proviamo a ricordare tutto. Soltanto alla fine riapriamo il libro oppure i nostri schemi e andiamo a rivedere i passaggi che non siamo riusciti a ricordare o che non siamo riusciti ad esporre. A questo punto, è utile chiudere di nuovo il libro e ripetere almeno le parti che non siamo riusciti ad esporre in precedenza.
 Non saltate mai questo passaggio, perché è in realtà ciò su cui si fonda tutto il metodo di studio, ciò su cui si fonda l'apprendimento. È il momento in cui andiamo a recuperare le informazioni dal nostro cervello ed è il momento reale in cui apprendiamo. I concetti che non riuscite a spiegare bene o a esporre bene sono quelli su cui vi dovete focalizzare di più, in modo da arrivare molto preparati all'esame.
