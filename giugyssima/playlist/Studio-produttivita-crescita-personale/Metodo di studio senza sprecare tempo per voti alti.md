@@ -153,6 +153,122 @@ Ricordatevi sempre che, se lo faccio io, lo potete fare anche voi e che non avet
 Ho fatto un altro video, l'anno scorso, sul metodo di studio, un pochino più complicato, ma credo che quello di oggi sia riuscito meglio, sebbene in quello là ci siano comunque buoni consigli di studio, magari anche qualche consiglio in più rispetto a questo. Ma il video di oggi è quello che proprio racchiude il cuore del mio metodo di studio.  
 Sul canale trovate poi anche playlist con video di crescita personale e vlog che escono ogni domenica. Alla fine di ogni mese, faccio anche un book club in cui vi racconto tutte le mie letture del mese e vi consiglio i libri che a me sono piaciuti di più. Seguitemi su Instagram, dove posto stories per motivarvi a studiare e per farvi sentire più vicini a me. Lasciatemi un commento, fatemi sapere cosa ne pensate di questo video, fatemi sapere cosa studiate, mettete mi piace, iscrivetevi al canale se non siete ancora iscritti. Io vi abbraccio forte e ci vediamo nel prossimo video. Buono studio!  
 
+## 🧠 Mappa Concettuale – Metodo di Studio di Giugyssima
+
+```
+"Studiare" → significa → "Comprendere" e "Ricordare"
+
+"Metodo efficace" → si basa su → "Active Recall" e "Spaced Repetition"
+
+"Metodo Giugyssima" → è composto da → "5 passaggi fondamentali"
+
+1. "Struttura"
+    "Struttura" → consiste in → "Organizzare il materiale in argomenti"
+    "Argomenti" → devono essere → "Compatti e autosufficienti"
+    "Organizzazione" → aiuta a → "Evitare la procrastinazione"
+    "Argomento del giorno" → va → "Segnato su un'agenda"
+    "Struttura" → permette → "Concentrazione su un obiettivo alla volta"
+
+2. "Lettura attiva"
+    "Lettura attiva" → è → "Lettura finalizzata alla comprensione"
+    "Lettura attiva" → include → "Domande mentre si legge"
+    "Lettura attiva" → esclude → "Sottolineature meccaniche"
+    "Lettura attiva" → si fa con → "Matita o penna"
+    "Domande" → attivano → "Concentrazione e senso critico"
+
+3. "Schemi"
+    "Schemi" → servono a → "Riorganizzare le informazioni con parole proprie"
+    "Schemi" → devono essere → "Scritti senza consultare il libro"
+    "Schemi" → vanno creati → "Solo dopo lettura attiva"
+    "Schemi" → possono essere → "A mano o digitali"
+    "Fare schemi" → favorisce → "Active Recall"
+    
+4. "Active Recall"
+    "Active Recall" → significa → "Recuperare informazioni attivamente"
+    "Active Recall" → si fa con → "Domande su ciò che si è studiato"
+    "Active Recall" → migliora → "Memoria e comprensione"
+    "Active Recall" → può essere → "Scritto o parlato"
+    "Active Recall" → è → "Allenamento cognitivo"
+
+5. "Revisione"
+    "Revisione" → si basa su → "Spaced Repetition"
+    "Revisione" → si fa → "Ripassando gli argomenti a distanza di tempo"
+    "Ripetizione dilazionata" → contrasta → "Curva dell'oblio"
+    "Revisione" → può essere fatta → "Rivedendo schemi e domande"
+    "Revisione" → include → "Richiami attivi"
+
+"Metodo Giugyssima" → è → "Flessibile e adattabile"
+"Metodo Giugyssima" → richiede → "Disciplina e costanza"
+"Obiettivo finale" → è → "Studiare meno ma meglio"
+```
+
+## 🧠 Mappa Mentale – Metodo di Studio Giugyssima (in forma testuale)  
+
+🎯 Obiettivo: sintetizzare visivamente i concetti principali per aiutare la memoria, il ripasso e una rapida consultazione.
+
+📌 Caratteristiche della mappa mentale:
+
+* Centro: Metodo di Studio Giugyssima
+* Rami principali: i 5 passaggi fondamentali
+* Sottorami: parole chiave, suggerimenti, immagini mentali
+
+```
+Metodo di Studio Giugyssima
+│
+├── 1. STRUTTURA
+│   ├── Suddividi in argomenti autosufficienti
+│   ├── Evita argomenti troppo vasti
+│   ├── Crea un piano su agenda
+│   └── Un argomento al giorno (focus totale)
+
+├── 2. LETTURA ATTIVA
+│   ├── Leggi con obiettivo di capire
+│   ├── Fai domande su ogni paragrafo
+│   ├── Non sottolineare subito
+│   ├── Usa matita o penna per commentare
+│   └── Attiva il pensiero critico
+
+├── 3. SCHEMI
+│   ├── Rielabora ciò che hai capito
+│   ├── Non copiare, ricorda e riorganizza
+│   ├── Scrivi a mano o in digitale
+│   ├── Crea mappe, scheletri, diagrammi
+│   └── Falli solo dopo lettura attiva
+
+├── 4. ACTIVE RECALL
+│   ├── Allenati a ricordare
+│   ├── Scrivi domande sul materiale
+│   ├── Prova a rispondere a memoria
+│   ├── Fallo parlando o scrivendo
+│   └── Simula l’esame, spiega ad altri
+
+├── 5. REVISIONE
+│   ├── Usa la Spaced Repetition
+│   ├── Ripeti dopo 1-3-7-15 giorni
+│   ├── Richiama attivamente, non solo rilettura
+│   ├── Integra con schemi e domande
+│   └── Allena la memoria a lungo termine
+
+└── Obiettivi del Metodo
+    ├── Studiare in modo efficace
+    ├── Ottimizzare il tempo
+    ├── Capire profondamente
+    └── Ricordare nel tempo
+```
+
+🎓 CLASSIFICAZIONE DEI 5 PASSAGGI SECONDO "COMPRENDERE" E "RICORDARE"  
+
+| Passaggio      | Appartiene a...  | Spiegazione sintetica                                                                |
+| :------------- | :--------------- | ------------------------------------------------------------------------------------ |
+| Struttura      | Comprendere      | Organizza il materiale per affrontarlo in modo mirato e ridurre la confusione.       |
+| Lettura Attiva | Comprendere      | Punta alla piena assimilazione del significato, attiva il senso critico.             |
+| Schemi         | Entrambi (C ∩ R) | Si capisce meglio rielaborando, ma è anche una prima forma di memorizzazione attiva. |
+| Active Recall  | Ricordare        | Recupera informazioni senza supporto, allena la memoria e il richiamo.               |
+| Revisione      | Ricordare        | Fissa nella memoria a lungo termine mediante spaced repetition.                      |
+
+
+🧠 Mappa concettuale – Classificazione dei 5 passaggi nei due pilastri
+
 ```
                           +--------------------------+
                           |   Metodo di Studio       |
