@@ -167,7 +167,7 @@ Sul canale trovate poi anche playlist con video di crescita personale e vlog che
                        |                             |
           +------------+------------+      +---------+----------+
           |                         |      |                    |
-   +------v------+         +--------v---+  |    +---------------v---------+
+   +------v------+         +--------v---+  |    +---------------v--------+
    |  STRUTTURA  |         | LETTURA    |  |    |   ACTIVE RECALL        |
    |             |         |   ATTIVA   |  |    +------------------------+
    +-------------+         +------------+  |    |  REVISIONE (SPACED)    |
