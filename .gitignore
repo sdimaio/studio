@@ -43,9 +43,6 @@ build/
 *.class
 bin/**
 build/**
-*.jpg
-*.png
-*.gif
 *.six
 autumn.bash*
 run_swing.bash
