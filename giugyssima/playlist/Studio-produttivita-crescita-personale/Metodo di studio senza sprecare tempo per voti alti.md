@@ -89,11 +89,7 @@ Struttura che noi, prima di iniziare a studiare, ancora prima di iniziare a legg
 Dobbiamo, cioè, analizzare e capire quali sono i confini della materia che ci accingiamo a studiare: 
 * di che cosa si tratta? 
 * Qual è il suo scopo? 
-<<<<<<< HEAD
-* Qual è il suo campo di analisi? 
-=======
 * Qual è il suo campo di analisi?
->>>>>>> 99d0c4466ccc59c1d671fd62f66f204a23a41a07
 
 E, una volta fatto ciò, dobbiamo passare a capire qual è la suddivisione interna della materia, quali sono i suoi 
 <ins>blocchi di contenuti</ins> principali, di quali parti si compone. L'indice del manuale è molto utile a questo 
@@ -104,41 +100,6 @@ questo passaggio è quindi quello di **acquisire** una <ins>visione d'insieme de
 nozioni che impareremo nel corso del nostro studio. Questo è veramente il requisito fondamentale, costituisce le 
 fondamenta dell'edificio del nostro studio.
 
-<<<<<<< HEAD
-Io, per questo passaggio, utilizzo l'app Notion, che permette di prendere appunti, organizzare gli appunti, e ha 
-un'utilissima funzione detta "toggle", che è una freccina che permette di mostrare e nascondere porzioni di testo. 
-Se anche voi volete provare a utilizzare Notion, vi lascio il link interamente dedicato a come utilizzarlo, o meglio, 
-come lo utilizzo io, così che possiate provare e vedere come vi trovate.
-
-##### 2. Lettura attiva
-Il secondo passaggio del metodo di studio consiste nella lettura attiva.
-<ins>Dopo</ins> quindi <ins>aver compreso</ins> come è strutturata la materia, iniziamo effettivamente a studiarla, a 
-leggerla. Se possibile, io vi consiglio di leggere prima delle lezioni, cercando di individuare gli argomenti che il 
-professore andrà a spiegare, perché se si legge prima si riesce a trarre molto di più dalla lezione, si riesce a 
-comprendere molto meglio la materia e, magari, se necessario, si possono anche porre domande se c'è qualcosa che non 
-è chiaro. Per sapere come organizzarvi con le letture e la preparazione delle lezioni, vi lascio il link a un video 
-sull'organizzazione dello studio durante il semestre.
-In ogni caso, in qualunque tempo facciamo la nostra lettura, <ins>è importante</ins> che ci chiediamo sempre e 
-costantemente il **perché** di quello che leggiamo. Se ci limitiamo ad accettare e cercare di assorbire le parole 
-che ci sono scritte sul manuale, cadiamo nella trappola della memorizzazione. Noi, invece, che vogliamo andare oltre 
-la memorizzazione e avere un ottimo metodo di studio, <ins>vogliamo comprendere a fondo</ins> quello che c'è scritto. 
-Quindi, ci dobbiamo chiedere il perché di ogni singolo concetto.
-Se riuscite a rendere la vostra lettura effettivamente attiva ed evitare di cercare semplicemente di assorbire 
-informazioni (cosa che non avverrà con una sola lettura, ma verrà con molte, molte letture), se invece la vostra 
-lettura è attiva, potete di fatto limitarvi ad una sola lettura. Con i passaggi successivi, riuscirete ad acquisire 
-una comprensione dettagliata e profonda della materia. 
-Nella fase di lettura, può essere utile **sottolineare** espressioni importanti e **parole chiave** alle quali poi si ancorerà tutto il nostro ragionamento. Se volete scoprire quali sono i miei migliori consigli per sottolineare al 
-meglio, vi lascio anche questa volta il link al video che ho fatto poche settimane fa.
-Il passaggio della lettura attiva ci impone di <ins>fermarci alla fine di ogni paragrafo</ins>, alla fine di ogni 
-sezione, e chiederci se abbiamo effettivamente capito quello che abbiamo letto. E, in aggiunta, chiederci se 
-<ins>riusciremo a spiegarlo a qualcun altro</ins>. Perché, se non riusciamo a spiegarlo a qualcun altro, significa che 
-in realtà non l'abbiamo capito e non riusciremo neppure a spiegarlo al professore. Se la risposta è sì, quindi abbiamo 
-capito tutto e riusciamo a spiegarlo, possiamo procedere con il paragrafo successivo. Se la risposta è no, dobbiamo 
-fare qualcosa riguardo alle nozioni e concetti che non abbiamo capito. Quello che dobbiamo fare è <ins>tornare indietro</ins> 
-e <ins>leggere il paragrafo</ins>, magari leggere altri paragrafi ai quali le parole che stiamo leggendo si 
-riferiscono, possiamo chiedere al professore, chiedere a compagni di studio, oppure cercare su Internet. L'importante 
-è che, qualunque sia il nostro metodo, risolviamo i dubbi e non cadiamo nella trappola della memorizzazione.
-=======
 Io, per questo passaggio, utilizzo l'app Notion, che permette di prendere appunti, organizzare gli appunti, e ha un'utilissima funzione detta "toggle", che è una freccina che permette di mostrare e nascondere porzioni di testo. Se anche voi volete provare a utilizzare Notion, vi lascio il link interamente dedicato a come utilizzarlo meglio, come lo utilizzo io, così che possiate provare e vedere come vi trovate.
 ##### 2. La lettura attiva
 Il secondo passaggio del metodo di studio consiste nella lettura attiva.
@@ -148,7 +109,6 @@ In ogni caso, in qualunque tempo facciamo la nostra lettura, è importante che c
 Se riuscite a rendere la vostra lettura effettivamente attiva ed evitare di cercare semplicemente di assorbire informazioni (cosa che non avverrà con una sola lettura, ma verrà con molte, molte letture), se invece la vostra lettura è attiva, potete di fatto limitarvi ad una sola lettura. Con i passaggi successivi, riuscirete ad acquisire una comprensione dettagliata e profonda della materia.  
 Nella fase di lettura, può essere <ins>utile sottolineare</ins> <ins>espressioni importanti</ins> e <ins>parole chiave</ins> alle quali poi si ancorerà tutto il nostro ragionamento. Se volete scoprire quali sono i miei migliori consigli per sottolineare al meglio, vi lascio anche questa volta il link al video che ho fatto poche settimane fa.  
 Il passaggio della lettura attiva ci impone di <ins>fermarci alla fine</ins> di ogni <ins>paragrafo</ins>, alla fine di ogni <ins>sezione</ins>, e chiederci se <ins>abbiamo effettivamente capito</ins> quello che abbiamo letto. E, in aggiunta, chiederci se riusciremo a spiegarlo a qualcun altro. Perché, se non riusciamo a spiegarlo a qualcun altro, significa che in realtà non l'abbiamo capito e non riusciremo neppure a spiegarlo al professore. Se la risposta è sì, quindi abbiamo capito tutto e riusciamo a spiegarlo, possiamo procedere con il paragrafo successivo. Se la risposta è <ins>no</ins>, dobbiamo fare qualcosa riguardo alle nozioni e concetti che non abbiamo capito. Quello che dobbiamo fare è <ins>tornare indietro</ins> e leggere il paragrafo, magari leggere altri paragrafi ai quali le parole che stiamo leggendo si riferiscono, possiamo chiedere al professore, chiedere a compagni di studio, oppure cercare su Internet. <ins>L'importante è</ins> che, qualunque sia il nostro metodo, <ins>**risolviamo i dubbi**</ins> e non cadiamo nella trappola della memorizzazione.
->>>>>>> 99d0c4466ccc59c1d671fd62f66f204a23a41a07
 
 ### ... e ricordare.
 I primi due passaggi del metodo di studio, quindi l'analisi della struttura e la lettura attiva, ci permettono di comprendere a fondo la materia che stiamo studiando. Ma ora, una volta compreso quello che dobbiamo studiare, si tratta di ricordarlo in modo da arrivare all'esame preparati. Il <ins>segreto</ins> per ricordare e quindi imparare tutti i concetti che abbiamo compreso sta tutto in quello che in inglese si chiama <ins>**"active recall"**</ins>, cioè, in italiano, richiamo attivo. Ho fatto un intero video sull'active recall. Vi lascio il link: andatelo a vedere se, alla fine di questo video, volete avere qualche informazione in più.  
@@ -173,7 +133,10 @@ Se studiate una materia meno discorsiva e più scientifica, la ripetizione, in b
 I passaggi da 1 a 4 devono essere svolti in ogni giornata di studio in cui ci dedichiamo a imparare informazioni nuove, quindi quando andiamo avanti con il nostro manuale. Se avete più esami da preparare e non avete idea di come organizzarvi, vi lascio il link a un video che ho fatto apposta per voi. Lo trovate nel description box.  
 
 ##### 5. Spaced repetition
-Il quinto passaggio è quello delle ripetizioni successive. _Comprendere_ e ripetere tutto una volta, anche se ci sembra di ricordarlo benissimo, _non basta_. Questo perché esiste un fenomeno, quello della **"forgetting curve"** (in italiano, _curva dell'oblio_), in base al quale il tempo ci fa dimenticare quello che abbiamo studiato. Quindi, se nel giorno 1 ci ricordiamo il 100% di quello che abbiamo studiato, nel giorno 2 magari ci ricordiamo soltanto il 50%, nel giorno 3 soltanto il 25%, e nei giorni successivi arriveremo ad annullare totalmente gli sforzi del nostro studio, rendendoli inutili. Fortunatamente, c'è un modo per contrastare la "forgetting curve", ed è la "spaced repetition", o ripetizione dilazionata. La spaced repetition è una tecnica in base alla quale si interrompe la curva dell'oblio e si riporta la quantità di informazioni che ci ricordiamo al 100%.
+Il quinto passaggio è quello delle ripetizioni successive. _Comprendere_ e ripetere tutto una volta, anche se ci sembra di ricordarlo benissimo, _non basta_. Questo perché esiste un fenomeno, quello della **"forgetting curve"** (in italiano, _curva dell'oblio_), in base al quale il tempo ci fa dimenticare quello che abbiamo studiato. Quindi, se nel giorno 1 ci ricordiamo il 100% di quello che abbiamo studiato, nel giorno 2 magari ci ricordiamo soltanto il 50%, nel giorno 3 soltanto il 25%, e nei giorni successivi arriveremo ad annullare totalmente gli sforzi del nostro studio, rendendoli inutili.  
+![Forgetting curve images](/images/curve3.png?raw=true "Forgetting curve images")  
+
+Fortunatamente, c'è un modo per contrastare la "forgetting curve", ed è la "spaced repetition", o ripetizione dilazionata. La spaced repetition è una tecnica in base alla quale si interrompe la curva dell'oblio e si riporta la quantità di informazioni che ci ricordiamo al 100%.
 In pratica, la spaced repetition consiste nella ripetizione, quindi nel fatto di fare active recall, ad intervalli sempre più lunghi. Vi faccio un esempio: se io oggi studio 30 pagine e faccio active recall (le ripeto), quindi svolgo i passaggi da 1 a 4 del mio metodo di studio, domani svolgerò di nuovo il passaggio 4 sempre per queste 30 pagine. Quindi, domani proverò a fare active recall, a ripetere ad alta voce tutto quello che ho studiato oggi. In più, studierò anche le pagine che avrò assegnate alla giornata di domani, svolgendo di nuovo i passaggi da 1 a 4 per queste nuove 30 pagine. Quindi, ho ripetuto il primo giorno quando le ho studiate, il secondo giorno, salterò due giorni e al terzo giorno le ripeterò di nuovo. A questo punto, mi sarò dimenticata qualche informazione, ma ripetendo nuovamente e, dopo aver ripetuto, andando a guardare sul libro, riuscirò a recuperarle. Dopo, andrò a ripetere di nuovo le stesse 30 pagine dopo una settimana. Di nuovo, avrò dimenticato qualcosa, ma con la ripetizione e la revisione avrò consolidato ancora di più le mie conoscenze. Le informazioni che vanno perse tra una ripetizione e l'altra sono sempre meno. Dopo aver ripetuto a distanza di una settimana, andrò a ripetere a distanza di due settimane. Così, vedete che gli intervalli di ripetizione diventano sempre più lunghi.
 So che questo passaggio può sembrare un po' complicato. Proprio per questo, ho fatto un video interamente dedicato alla "forgetting curve" e alla spaced repetition. Vi lascio il link: andate a guardarlo, perché penso che possa esservi utile. Se vi siete organizzati bene, avrete del tempo prima dell'esame, almeno una settimana, in cui non dovrete più studiare nozioni nuove, ma potrete dedicarvi semplicemente a ripetere costantemente tutto quello che avete studiato. Cercate sempre di ripetere le cose che sapete meno, su cui vi sentite meno sicuri, in modo da arrivare all'esame preparati su tutto.
 Un consiglio in più che vi do è: se sono disponibili, cercate di procurarvi fac-simile di esami passati oppure liste di domande che sono state poste dal professore all'esame, in modo da potervi esercitare di più su quelle.
@@ -189,4 +152,5 @@ Vi consiglio, quindi, davvero di provare questo metodo. Non cadete nella tentazi
 Ricordatevi sempre che, se lo faccio io, lo potete fare anche voi e che non avete scuse. Sul canale troverete una playlist interamente dedicata al metodo di studio, in cui troverete altri video in cui do consigli ed elaboro un po' di più sui concetti dei quali ho parlato in questo video. Vi consiglio di utilizzare questo video come la guida a tutti gli altri video e poi trarre semplicemente dei concetti dagli altri. Ho fatto un altro video, l'anno scorso, sul metodo di studio, un pochino più complicato, ma credo che quello di oggi sia riuscito meglio, sebbene in quello là ci siano comunque buoni consigli di studio, magari anche qualche consiglio in più rispetto a questo. Ma il video di oggi è quello che proprio racchiude il cuore del mio metodo di studio.
 Sul canale trovate poi anche playlist con video di crescita personale e vlog che escono ogni domenica. Alla fine di ogni mese, faccio anche un book club in cui vi racconto tutte le mie letture del mese e vi consiglio i libri che a me sono piaciuti di più. Seguitemi su Instagram, dove posto stories per motivarvi a studiare e per farvi sentire più vicini a me. Lasciatemi un commento, fatemi sapere cosa ne pensate di questo video, fatemi sapere cosa studiate, mettete mi piace, iscrivetevi al canale se non siete ancora iscritti.
 Io vi abbraccio forte e ci vediamo nel prossimo video. Buono studio!
+
 
