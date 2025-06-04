@@ -153,7 +153,7 @@ Ricordatevi sempre che, se lo faccio io, lo potete fare anche voi e che non avet
 Ho fatto un altro video, l'anno scorso, sul metodo di studio, un pochino più complicato, ma credo che quello di oggi sia riuscito meglio, sebbene in quello là ci siano comunque buoni consigli di studio, magari anche qualche consiglio in più rispetto a questo. Ma il video di oggi è quello che proprio racchiude il cuore del mio metodo di studio.  
 Sul canale trovate poi anche playlist con video di crescita personale e vlog che escono ogni domenica. Alla fine di ogni mese, faccio anche un book club in cui vi racconto tutte le mie letture del mese e vi consiglio i libri che a me sono piaciuti di più. Seguitemi su Instagram, dove posto stories per motivarvi a studiare e per farvi sentire più vicini a me. Lasciatemi un commento, fatemi sapere cosa ne pensate di questo video, fatemi sapere cosa studiate, mettete mi piace, iscrivetevi al canale se non siete ancora iscritti. Io vi abbraccio forte e ci vediamo nel prossimo video. Buono studio!  
 
-
+```
                           +--------------------------+
                           |   Metodo di Studio       |
                           |     (Giugyssima)         |
@@ -161,7 +161,7 @@ Sul canale trovate poi anche playlist con video di crescita personale e vlog che
                                       |
                        +--------------+--------------+
                        |                             |
-               +-------v-------+             +-------v--------+
+               +-------v-------+             +-------v---------+
                |  COMPRENDERE  |             |   RICORDARE     |
                +-------+-------+             +--------+--------+
                        |                             |
@@ -179,6 +179,6 @@ Sul canale trovate poi anche playlist con video di crescita personale e vlog che
                                     | (INTERSEZ.) |
                                     +-------------+
 
-
+```
 
   
