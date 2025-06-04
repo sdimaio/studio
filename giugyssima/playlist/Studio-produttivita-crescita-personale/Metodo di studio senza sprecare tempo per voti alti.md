@@ -259,10 +259,10 @@ Metodo di Studio Giugyssima
 🎓 CLASSIFICAZIONE DEI 5 PASSAGGI SECONDO "COMPRENDERE" E "RICORDARE"  
 
 | Passaggio      | Appartiene a...  | Spiegazione sintetica                                                                |
-| :------------- | :--------------- | ------------------------------------------------------------------------------------ |
+| :------------- | :--------------: | ------------------------------------------------------------------------------------ |
 | Struttura      | Comprendere      | Organizza il materiale per affrontarlo in modo mirato e ridurre la confusione.       |
 | Lettura Attiva | Comprendere      | Punta alla piena assimilazione del significato, attiva il senso critico.             |
-| Schemi         | Entrambi (C ∩ R) | Si capisce meglio rielaborando, ma è anche una prima forma di memorizzazione attiva. |
+| Schemi         | Entrambi (C∩R)   | Si capisce meglio rielaborando, ma è anche una prima forma di memorizzazione attiva. |
 | Active Recall  | Ricordare        | Recupera informazioni senza supporto, allena la memoria e il richiamo.               |
 | Revisione      | Ricordare        | Fissa nella memoria a lungo termine mediante spaced repetition.                      |
 
